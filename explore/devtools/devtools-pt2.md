@@ -1,0 +1,2 @@
+1. the function calculateSum() supposes to get two numbers and return the sum of them. However, the function get two numbers as strings and return the combination of two strings. For example, if we pass 1 and 2 into the function, it will return 12 instead of 3. 
+2. I will convert the num1 and num2 to the numbers and than compute the result in the function.  
